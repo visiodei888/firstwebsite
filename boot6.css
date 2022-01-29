@@ -1,0 +1,26 @@
+.border{
+    margin-top: 5%;
+    margin-left: 30%;
+    border: black solid 3px;
+    height: auto;
+    width: 40%;
+}
+.content{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.label{
+    display: flex;
+    justify-content: center;
+    font-size: 20px;
+    color: black;
+}
+.in{
+    width: 90%;
+    padding-left: 10px;
+    margin-left: 10px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
